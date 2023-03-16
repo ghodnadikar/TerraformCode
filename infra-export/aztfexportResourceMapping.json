@@ -1,0 +1,162 @@
+{
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW",
+		"resource_type": "azurerm_resource_group",
+		"resource_name": "res-0"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform",
+		"resource_type": "azurerm_windows_virtual_machine",
+		"resource_name": "res-1"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform-1": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform-1",
+		"resource_type": "azurerm_windows_virtual_machine",
+		"resource_name": "res-2"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform-1/extensions/MicrosoftMonitoringAgent": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform-1/extensions/MicrosoftMonitoringAgent",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-3"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform/extensions/MicrosoftMonitoringAgent": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform/extensions/MicrosoftMonitoringAgent",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-4"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform/extensions/enablevmaccess": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Compute/virtualMachines/Terraform/extensions/enablevmaccess",
+		"resource_type": "azurerm_virtual_machine_extension",
+		"resource_name": "res-5"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.DevTestLab/schedules/shutdown-computevm-Terraform": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.DevTestLab/schedules/shutdown-computevm-Terraform",
+		"resource_type": "azurerm_dev_test_global_vm_shutdown_schedule",
+		"resource_name": "res-6"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.DevTestLab/schedules/shutdown-computevm-Terraform-1": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.DevTestLab/schedules/shutdown-computevm-Terraform-1",
+		"resource_type": "azurerm_dev_test_global_vm_shutdown_schedule",
+		"resource_name": "res-7"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkInterfaces/terraform-1472": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkInterfaces/terraform-1472",
+		"resource_type": "azurerm_network_interface",
+		"resource_name": "res-8"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkInterfaces/terraform-1472/networkSecurityGroups/L3N1YnNjcmlwdGlvbnMvNjg3NTc2YjUtY2ZjNy00ZDg0LWEyMTYtYWZlMzlkNmU5ODNlL3Jlc291cmNlR3JvdXBzL0FLOF9ORVcvcHJvdmlkZXJzL01pY3Jvc29mdC5OZXR3b3JrL25ldHdvcmtTZWN1cml0eUdyb3Vwcy9UZXJyYWZvcm0tMS1uc2c=": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkInterfaces/terraform-1472|/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-1-nsg",
+		"resource_type": "azurerm_network_interface_security_group_association",
+		"resource_name": "res-9"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkInterfaces/terraform34": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkInterfaces/terraform34",
+		"resource_type": "azurerm_network_interface",
+		"resource_name": "res-10"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkInterfaces/terraform34/networkSecurityGroups/L3N1YnNjcmlwdGlvbnMvNjg3NTc2YjUtY2ZjNy00ZDg0LWEyMTYtYWZlMzlkNmU5ODNlL3Jlc291cmNlR3JvdXBzL0FLOF9ORVcvcHJvdmlkZXJzL01pY3Jvc29mdC5OZXR3b3JrL25ldHdvcmtTZWN1cml0eUdyb3Vwcy9UZXJyYWZvcm0tbnNn": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkInterfaces/terraform34|/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-nsg",
+		"resource_type": "azurerm_network_interface_security_group_association",
+		"resource_name": "res-11"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/AD-nsg": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/AD-nsg",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-12"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/AD-nsg/securityRules/RDP": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/AD-nsg/securityRules/RDP",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-13"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Manojvm-nsg": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Manojvm-nsg",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-14"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Manojvm-nsg/securityRules/RDP": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Manojvm-nsg/securityRules/RDP",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-15"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-1-nsg": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-1-nsg",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-16"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-1-nsg/securityRules/RDP": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-1-nsg/securityRules/RDP",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-17"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-nsg": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-nsg",
+		"resource_type": "azurerm_network_security_group",
+		"resource_name": "res-18"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-nsg/securityRules/RDP": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/networkSecurityGroups/Terraform-nsg/securityRules/RDP",
+		"resource_type": "azurerm_network_security_rule",
+		"resource_name": "res-19"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/privateDnsZones/privatelink.database.windows.net": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/privateDnsZones/privatelink.database.windows.net",
+		"resource_type": "azurerm_private_dns_zone",
+		"resource_name": "res-20"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/privateDnsZones/privatelink.database.windows.net/virtualNetworkLinks/ecoe7jbwearmi": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/privateDnsZones/privatelink.database.windows.net/virtualNetworkLinks/ecoe7jbwearmi",
+		"resource_type": "azurerm_private_dns_zone_virtual_network_link",
+		"resource_name": "res-21"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/publicIPAddresses/Terraform-1-ip": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/publicIPAddresses/Terraform-1-ip",
+		"resource_type": "azurerm_public_ip",
+		"resource_name": "res-22"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/publicIPAddresses/Terraform-ip": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/publicIPAddresses/Terraform-ip",
+		"resource_type": "azurerm_public_ip",
+		"resource_name": "res-23"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET",
+		"resource_type": "azurerm_virtual_network",
+		"resource_name": "res-24"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET/subnets/AzureBastionSubnet": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET/subnets/AzureBastionSubnet",
+		"resource_type": "azurerm_subnet",
+		"resource_name": "res-25"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET/subnets/Servers": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET/subnets/Servers",
+		"resource_type": "azurerm_subnet",
+		"resource_name": "res-26"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET/virtualNetworkPeerings/ak8-fe": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET/virtualNetworkPeerings/ak8-fe",
+		"resource_type": "azurerm_virtual_network_peering",
+		"resource_name": "res-27"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET/virtualNetworkPeerings/new-old": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Network/virtualNetworks/AK8-New-VNET/virtualNetworkPeerings/new-old",
+		"resource_type": "azurerm_virtual_network_peering",
+		"resource_name": "res-28"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Storage/storageAccounts/cloudtechnopune30": {
+		"resource_id": "/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Storage/storageAccounts/cloudtechnopune30",
+		"resource_type": "azurerm_storage_account",
+		"resource_name": "res-29"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Storage/storageAccounts/cloudtechnopune30/blobServices/default/containers/script": {
+		"resource_id": "https://cloudtechnopune30.blob.core.windows.net/script",
+		"resource_type": "azurerm_storage_container",
+		"resource_name": "res-31"
+	},
+	"/subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Storage/storageAccounts/cloudtechnopune30/blobServices/default/containers/terraformstate": {
+		"resource_id": "https://cloudtechnopune30.blob.core.windows.net/terraformstate",
+		"resource_type": "azurerm_storage_container",
+		"resource_name": "res-32"
+	}
+}

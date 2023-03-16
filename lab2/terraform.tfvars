@@ -1,0 +1,13 @@
+rgname = "DC900"
+rglocation = "west us3"
+vnetname = "prod-vnet"
+addressspace1 = "192.168.0.0/16"
+dnsserver1 = "192.168.20.100"
+subnet11 = "web-server"
+subnet12 = "db-subnet"
+addressprefix11 = "192.168.1.0/24" 
+addressprefix12 = "192.168.2.0/24"
+nicname1 = "nic1"
+nicname2 = "nic2"
+ip_address_allocation = "Dynamic"
+

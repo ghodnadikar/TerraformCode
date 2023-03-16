@@ -1,0 +1,7 @@
+Following resources are marked to be skipped:
+
+- /subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Storage/storageAccounts/cloudtechnopune30/blobServices/default
+- /subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Storage/storageAccounts/cloudtechnopune30/fileServices/default
+- /subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Storage/storageAccounts/cloudtechnopune30/queueServices/default
+- /subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/AK8_NEW/providers/Microsoft.Storage/storageAccounts/cloudtechnopune30/tableServices/default
+- /subscriptions/687576b5-cfc7-4d84-a216-afe39d6e983e/resourceGroups/ak8_new/providers/Microsoft.Network/privateDnsZones/privatelink.database.windows.net/SOA/@

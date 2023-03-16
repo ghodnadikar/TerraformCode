@@ -1,0 +1,21 @@
+terraform workspace show
+
+terraform workspace list
+
+
+terraform workspace new dev
+
+terraform workspace select dev
+
+terraform workspace show
+
+terraform workspace delete dev
+
+terraform plan -var-file="dmz.tfvars"
+
+terraform apply -var-file="dmz.tfvars"
+
+terraform apply -var-file="dmz.tfvars" --auto-approve
+
+terraform destroy-var-file="dmz.tfvars" --auto-approve
+
